@@ -19,6 +19,5 @@ This project is built to understand **real-world backend system behavior**, not 
 
 ---
 
-## 🧠 System Design Overview
 
 
