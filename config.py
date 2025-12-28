@@ -1,0 +1,10 @@
+REDIS_BUCKET_PREFIX = "bucket:"
+REDIS_CONFIG_KEY = "rate_limit:config"
+REDIS_METRICS_LATENCY = "metrics:latency"
+REDIS_METRICS_ERRORS = "metrics:errors"
+
+DEFAULT_CAPACITY = 5
+DEFAULT_REFILL_RATE = 5
+
+MIN_LIMIT = 2
+MAX_LIMIT = 20
