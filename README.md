@@ -15,10 +15,10 @@ This project is built to understand **real-world backend system behavior**, not 
 - Adaptive controller (feedback-based)
 - Graceful handling of edge cases (no refill, overload)
 - Retry-After support
-- Simple React UI for demonstration
 - Python-based load testing
 
 ---
 
 ## 🧠 System Design Overview
+
 
